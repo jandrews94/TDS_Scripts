@@ -1,3 +1,0 @@
-org
-README.md
-test.txt
